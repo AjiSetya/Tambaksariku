@@ -5,6 +5,19 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">About</string>
+    <string name="pakan">
+        Pada wisata pakan ikan ini, nanti pengunjung akan dilatih tentang bagaimana cara membuat pakan ikan, kemudian bagaimana cara merawat
+        ikan, tips dan trick soal pakan ikan dan lain-lain.
+    </string>
+    <string name="pakan2">
+        Para pengunjung juga langsung diperbolehkan praktek. jadi tidak hanya teori saja.
+        Para pengunjung juga didampingi dengan mentor yang sudah berpengalaman dibidangnya. jadi kalau
+        sedang praktek dan ada pertanyaan, bisa disampaikan langsung kepada ahlinya
+    </string>
+    <string name="pakan3">
+        Setelah pengunjung diajari bagaimana membuat pakan ikan dan tata cara perawatannya,
+        pengunjung diperbolehkan untuk membawa pulang hasil buatannya.
+    </string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
