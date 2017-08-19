@@ -3,16 +3,16 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_camera"
+            android:id="@+id/nav_wisata"
             android:title="Wisata" />
         <item
             android:id="@+id/nav_gallery"
             android:title="Galeri" />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_tentang"
             android:title="Tentang" />
         <item
-            android:id="@+id/nav_manage"
+            android:id="@+id/nav_logout"
             android:title="Logout" />
     </group>
 
